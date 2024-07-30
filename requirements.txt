@@ -1,0 +1,42 @@
+contourpy>=1.2.1
+    # via matplotlib
+cycler>=0.12.1
+    # via matplotlib
+fonttools>=4.53.1
+    # via matplotlib
+graphviz>=0.20.3
+joblib>=1.4.2
+    # via scikit-learn
+kiwisolver>=1.4.5
+    # via matplotlib
+matplotlib>=3.9.1
+numpy>=2.0.1
+    # via
+    #   contourpy
+    #   matplotlib
+    #   pandas
+    #   scikit-learn
+    #   scipy
+packaging>=24.1
+    # via matplotlib
+pandas>=2.2.2
+pathlib>=1.0.1
+pillow>=10.4.0
+    # via matplotlib
+pyparsing=>=3.1.2
+    # via matplotlib
+python-dateutil>=2.9.0.post0
+    # via
+    #   matplotlib
+    #   pandas
+pytz>=2024.1
+    # via pandas
+scikit-learn>=1.5.1
+scipy>=1.14.0
+    # via scikit-learn
+six>=1.16.0
+    # via python-dateutil
+threadpoolctl>=3.5.0
+    # via scikit-learn
+tzdata>=2024.1
+    # via pandas
